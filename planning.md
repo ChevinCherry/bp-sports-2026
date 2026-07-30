@@ -241,6 +241,7 @@ Two teams each defend a frame, positioned at each end of the court. To score, a 
 ##### Supplies
 - [ ] Trampoline x2
 - [ ] Spray Paint Can x1
+- [ ] Ball
 ##### Location
 - Baseball Diamond
 
