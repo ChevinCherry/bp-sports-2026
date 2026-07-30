@@ -96,7 +96,7 @@ Players take on one of 3 roles: Launcher, Holder, or Target. Each team sets up 3
 
 ##### Supplies
 - [ ] Bedsheet x2
-- Large water balloons x50
+- [ ] Large water balloons x50
 ##### Location
 - Tennis Court
 - Backup: Setup grass Vball net wherever is available
