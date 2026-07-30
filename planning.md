@@ -203,6 +203,11 @@ Please rest responsibly.
 - [ ] Fruit?
 ##### Location
 - Tabernacle
+
+#### 7. Mystery Event
+Please meet at the baseball diamond after all your wet sports days activities have completed for a secret final event
+#### Supplies
+- [ ] Water Balloon x500 >:)
 ---
 ### Dry Sports
 ---
