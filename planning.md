@@ -29,9 +29,9 @@
 - Kitchen
 
 ## Events
-
+---
 ### Wet Sports
-
+---
 #### 1. Steal the Bacon
 Put teams on either side of the tarp. Line them up smallest to largest and assign them numbers down the line (smallest being 1). Place a watermelon covered in Vaseline in the middle, and then call numbers. The called number from each team then rushes to the middle and tries to bring the watermelon back to their side. First team to do so wins.
 ##### Supplies
@@ -203,9 +203,9 @@ Please rest responsibly.
 - [ ] Fruit?
 ##### Location
 - Tabernacle
-
+---
 ### Dry Sports
-
+---
 #### 1. Gaga Ball
 The goal of the game is to be the last player standing. All players start in the ring. A ball is dropped in and the game begins. You can only hit the ball with a closed fist and you must yell "GAGA" every time you hit the ball. If the ball hits you anywhere but your fist, you are out and must leave the ring. Last man standing wins.
 
@@ -364,19 +364,28 @@ Please rest responsibly.
 - [ ] Fruit?
 ##### Location
 - Tabernacle
-
+---
 ### Beach Day
-
+---
 #### 1. Sand Castle Building Contest
 Each team constructs a Sand Castle, and judges pick their favourite at the end.
 
-Theme TBD:
+Theme: TBD
 
 ##### Supplies
 - [ ] Shovel x12
 - [ ] Bucket x12
+  
+#### 2. Tug Of War Tournament
+Tug of War bracket between teams.
 
+##### Supplies
+- [ ] Rope x2
+- [ ] Bandana x2
+
+---
 ### Late Night
+---
 
 #### Night 1:
 ##### Supplies
