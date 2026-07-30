@@ -92,7 +92,7 @@ Players take on one of 3 roles: Launcher, Holder, or Target. Each team sets up 3
 - Backup: Tennis court
 
 #### 5. Water Balloon Volleyball
-- Teams set up on either side of the net, each member pulling the outer edge of a bedsheet to make a platform. One team starts with a water balloon sitting on their sheet, and uses the sheet to launch it over the net. To score a point, you must pop the water balloon on the other teams side, either in their sheet or on their court. Team with the most points at the end wins.
+Teams set up on either side of the net, each member pulling the outer edge of a bedsheet to make a platform. One team starts with a water balloon sitting on their sheet, and uses the sheet to launch it over the net. To score a point, you must pop the water balloon on the other teams side, either in their sheet or on their court. Team with the most points at the end wins.
 
 ##### Supplies
 - [ ] Bedsheet x2
